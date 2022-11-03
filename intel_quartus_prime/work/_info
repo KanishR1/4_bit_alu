@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Maven_Internship/Lab_work_Kanish/Lab_1/full_adder
+valu
+!s110 1657804131
+!i10b 1
+!s100 6P;:IAZIobHc9`gT;f^KR0
+ImZ8>8HX0_8TkK857oL1HU0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/Maven_Internship/Lab_work_Kanish/Lab_2
+w1657803711
+8E:/Maven_Internship/Lab_work_Kanish/Lab_2/alu.v
+FE:/Maven_Internship/Lab_work_Kanish/Lab_2/alu.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1657804131.000000
+!s107 def.v|E:/Maven_Internship/Lab_work_Kanish/Lab_2/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Maven_Internship/Lab_work_Kanish/Lab_2/alu.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtb_alu
+!s110 1657804132
+!i10b 1
+!s100 <Pk<2UA[28:HW5mQhMiV>2
+I:eo7=e6:Wo`S`QJ1X6^k93
+R0
+R1
+w1657804128
+8E:/Maven_Internship/Lab_work_Kanish/Lab_2/tb_alu.v
+FE:/Maven_Internship/Lab_work_Kanish/Lab_2/tb_alu.v
+L0 18
+R2
+r1
+!s85 0
+31
+!s108 1657804132.000000
+!s107 E:/Maven_Internship/Lab_work_Kanish/Lab_2/tb_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Maven_Internship/Lab_work_Kanish/Lab_2/tb_alu.v|
+!i113 1
+R3
+R4
